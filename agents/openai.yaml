@@ -1,0 +1,7 @@
+interface:
+  display_name: "个人文学口播"
+  short_description: "用你的第一人称语气创作有生活细节、观点和幽默的中文口播稿"
+  default_prompt: "Use $personal-monologue-zh to turn this idea and my real experience into a Chinese literary video monologue."
+
+policy:
+  allow_implicit_invocation: true
